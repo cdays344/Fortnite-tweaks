@@ -1,0 +1,17 @@
+To ADD IOPageLockLimit to the Regestry navigate to:Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management
+
+Then add a DWORD 32-bit vaule or QWORD 64-bit value, it really doesn't matter; I've tried it both ways
+
+* Formula for figuring out correct setting
+
+((Your Total Installed Memory * 1024)*1024)*128 = Memory in Bytes to set as Decimal Base, not Hexagon.
+
+For Example: Here are my system settings
+
+((8GB Installed memory * 1024)*1024))*128 = 1073741824 bytes or (1GB)
+
+So I would set the IOPageLockLimit at (1073741824 as a decimal base) or (8000000 Hexagon)
+
+You will see a huge increase in startup speed and large file transfers and over system performance. You'll also see a huge difference when running Windows Update. Big Time!
+
+Source: https://answers.microsoft.com/en-us/windows/forum/all/iopagelocklimit-is-not-dead-in-windows-10/bab8c8cf-0830-4333-87a8-e74df29021dc

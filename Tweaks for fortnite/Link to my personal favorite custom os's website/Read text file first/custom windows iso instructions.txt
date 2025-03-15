@@ -1,0 +1,17 @@
+Windows xlite is my favorite custom os 
+This is only recomended if you know what your doing installing a new os
+You will see massive gains using a custom os but make sure to thouroghly read on their website before choosing which custom version of their os you want 
+as some features you may not want disabled will be disabled in some of their custom os's where as some of their other custom os's have the features you want to keep.
+Me personally im all about performance so i picked there lightest version which is atomic i do not however recommend this unless you know for certain that you dont need any of the lost functions or the microsoft store.
+The link to their website is : https://windowsxlite.com/downloads/
+In order to do this you must either a have a usb hard drive or b a flash drive. 
+yes you can do this without either but i am not goin to teach anyone how to do that as you may lose your os if done wrong.
+now plug the usb drive into your computers usb port
+Then go to the rufus app provided in this folder 
+select the windows iso you downloaded 
+Then select the usb drive you are using {note you may have to select advanced in rufus to enable usb hard drives. 
+Now select start.
+once finished restart your pc and spam your bios combo keys 
+then go to your boot tab and make sure the flash drive or usb hard drive is set to boot first 
+from there exit bios and restart. 
+you will see instructions now follow them.

@@ -1,0 +1,6 @@
+First open powerRun.exe
+Then click file in the top left 
+Then click allow command line arguments
+Close power runs and go then head back to the folder where both powerRun.exe and autoruns.exe are located
+Click and drag auto runs ontop of power runs.exe
+From here disable any un wanted processes. 

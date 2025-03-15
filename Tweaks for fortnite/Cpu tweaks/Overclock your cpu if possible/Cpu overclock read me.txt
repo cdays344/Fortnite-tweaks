@@ -1,0 +1,2 @@
+Overclocking your cpu helps alot if possible do your own research on this as each cpu is different. 
+Make sure to enable xmp or docp in bios.
