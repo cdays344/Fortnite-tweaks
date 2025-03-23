@@ -1,0 +1,1 @@
+Remember restore points. I didnt create these batch files. link here  https://github.com/shoober420/windows11-scripts/blob/main/NVProfileInspectorHQ.txt
