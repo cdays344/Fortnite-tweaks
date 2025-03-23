@@ -1,0 +1,2 @@
+Test with different values i will provide a video snipit of my current settings.
+I found that spread accross all processors was good for all drivers except gpu.
