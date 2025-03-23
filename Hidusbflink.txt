@@ -1,0 +1,2 @@
+https://github.com/LordOfMice/hidusbf
+Read the read me on their github to setup properly.
